@@ -1,2 +1,4 @@
 # leetcode
-code github
+
+#1 数组
+
